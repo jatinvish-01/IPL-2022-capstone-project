@@ -30,16 +30,6 @@ The Indian Premier League (IPL) is a professional T20 cricket league in India. T
 
 ---
 
-## 🏗️ Project Structure
-```text
-├── data/
-│   ├── IPL_2022_Raw.csv         # Raw dataset
-│   └── processed_data.json     # Cleaned data for export
-├── notebooks/
-│   └── IPL_Capstone_Project.ipynb # Main analysis & wrangling
-├── README.md                   # Project documentation
-└── requirements.txt            # Dependency list
-
 ## 👨‍💻 Author
 
 **Jatin Vishwakarma**  
